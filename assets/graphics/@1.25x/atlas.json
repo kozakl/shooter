@@ -1,0 +1,60 @@
+{"frames": {
+
+"ball.png":
+{
+	"frame": {"x":175,"y":323,"w":7,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":7},
+	"sourceSize": {"w":7,"h":7}
+},
+"basket.png":
+{
+	"frame": {"x":2,"y":2,"w":184,"h":319},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":319},
+	"sourceSize": {"w":184,"h":319}
+},
+"box.png":
+{
+	"frame": {"x":110,"y":401,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":63},
+	"sourceSize": {"w":63,"h":63}
+},
+"bullet.png":
+{
+	"frame": {"x":124,"y":323,"w":20,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":7},
+	"sourceSize": {"w":20,"h":7}
+},
+"gun.png":
+{
+	"frame": {"x":2,"y":323,"w":120,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":76},
+	"sourceSize": {"w":120,"h":76}
+},
+"target.png":
+{
+	"frame": {"x":2,"y":401,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
+	"sourceSize": {"w":106,"h":106}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA5555",
+	"size": {"w":188,"h":509},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8338ffbbeabca608dcefa083f51e033f$"
+}
+}

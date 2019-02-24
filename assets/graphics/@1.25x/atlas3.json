@@ -1,0 +1,20 @@
+{"frames": {
+
+"bg.png":
+{
+	"frame": {"x":2,"y":2,"w":1228,"h":771},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1228,"h":771},
+	"sourceSize": {"w":1228,"h":771}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas3.jpg",
+	"format": "RGBA8888",
+	"size": {"w":1232,"h":776},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fe3e77b046279d4914675705210ef22f$"
+}
+}
